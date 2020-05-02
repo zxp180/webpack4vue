@@ -157,9 +157,8 @@
 
 ## 关于作者 :boy:
 
-作者： 小皮咖
 
-Email：zxpscau@163.com
+参考贡献作者
 
 Github: https://github.com/zxpsuper
 
